@@ -22,7 +22,7 @@
 | [Flush Wire Cutters and Desoldering Wick](https://robu.in) | Trimming component leads flush and fixing bridges | 1 | $2.20 | $2.20 | [Robu.in](https://robu.in) |
 | [Isopropyl Alcohol (IPA 99%)](https://www.amazon.in) | Cleaning solder flux residue off the PCB | 1 | $1.00 | $1.00 | [Amazon India](https://www.amazon.in) |
 | **Parts subtotal** | — | — | — | **$21.30** | — |
-| **Tax & shipping** | — | — | — | **$8.50** | — |
-| **Total** | — | — | — | **$29.80** | — |
+| **Tax & shipping** | — | — | — | **$8.70** | — |
+| **Total** | — | — | — | **$30.00** | — |
 
-$0.20 left of the tier's funding.
+$0.00 left of the tier's funding.
