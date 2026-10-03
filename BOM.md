@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Custom 2-Layer PCB (Batch of 5)](https://jlcpcb.com) | Macropad PCB board connecting switches and Pico | 1 | $2.00 | $2.00 | [JLCPCB](https://jlcpcb.com) |
 | **Parts subtotal** | — | — | — | **$2.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$2.00** | — |
+| **Tax & shipping** | — | — | — | **$8.50** | — |
+| **Total** | — | — | — | **$10.50** | — |
 
-$28.00 left of the tier's funding.
+$19.50 left of the tier's funding.
