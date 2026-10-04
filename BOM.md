@@ -22,7 +22,7 @@
 | [Isopropyl Alcohol (IPA 99%)](https://www.amazon.in) | Cleaning solder flux residue off the PCB | 1 | $1.00 | $1.00 | [Amazon India](https://www.amazon.in) |
 | [3d case](https://techhobby.in) | its the 3d case for micropad | 1 | $2.00 | $2.00 | [techhobby](https://techhobby.in) |
 | **Parts subtotal** | — | — | — | **$21.30** | — |
-| **Tax & shipping** | — | — | — | **$8.70** | — |
-| **Total** | — | — | — | **$30.00** | — |
+| **Tax & shipping** | — | — | — | **$6.70** | — |
+| **Total** | — | — | — | **$28.00** | — |
 
-$0.00 left of the tier's funding.
+$2.00 left of the tier's funding.
