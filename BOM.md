@@ -12,7 +12,6 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [Custom 2-Layer PCB (Batch of 5)](https://jlcpcb.com) | Macropad PCB board connecting switches and Pico | 1 | $2.00 | $2.00 | [JLCPCB](https://jlcpcb.com) |
 | [Raspberry Pi Pico (RP2040)](https://robu.in/product/raspberry-pi-pico/) | Main microcontroller running keyboard firmware | 1 | $4.50 | $4.50 | [Robu.in](https://robu.in/product/raspberry-pi-pico/) |
 | [Cherry MX Style Mechanical Switches](https://meckeys.com) | Key switches for 3-key inputs | 3 | $0.70 | $2.10 | [Meckeys](https://meckeys.com) |
 | [1U Keycaps and 2.54mm Pin Headers](https://robu.in) | Keycaps for switches and header pins to mount Pico | 1 | $2.00 | $2.00 | [Robu.in](https://robu.in) |
@@ -21,8 +20,8 @@
 | [Heat Insulation Silicone Working Mat](https://robu.in/product/heat-insulation-silicone-working-mat-3020cm/) | Heat-resistant desk protection during soldering | 1 | $2.50 | $2.50 | [Robu.in](https://robu.in/product/heat-insulation-silicone-working-mat-3020cm/) |
 | [Flush Wire Cutters and Desoldering Wick](https://robu.in) | Trimming component leads flush and fixing bridges | 1 | $2.20 | $2.20 | [Robu.in](https://robu.in) |
 | [Isopropyl Alcohol (IPA 99%)](https://www.amazon.in) | Cleaning solder flux residue off the PCB | 1 | $1.00 | $1.00 | [Amazon India](https://www.amazon.in) |
-| **Parts subtotal** | — | — | — | **$21.30** | — |
+| **Parts subtotal** | — | — | — | **$19.30** | — |
 | **Tax & shipping** | — | — | — | **$8.70** | — |
-| **Total** | — | — | — | **$30.00** | — |
+| **Total** | — | — | — | **$28.00** | — |
 
-$0.00 left of the tier's funding.
+$2.00 left of the tier's funding.
